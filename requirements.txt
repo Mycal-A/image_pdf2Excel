@@ -1,0 +1,4 @@
+Flask==2.0.2
+img2table==0.3.1
+boto3==1.18.67
+requests==2.26.0
